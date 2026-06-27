@@ -6,6 +6,10 @@ Tech Stack: JavaScript Web Scraper + Vercel Serverless Architecture + Dynamic Fr
 
 #### 網站連結：https://car-dashboard-mu-three.vercel.app
 
+<img width="613" height="325" alt="Screenshot 2026-06-27 204101" src="https://github.com/user-attachments/assets/9271fad3-521e-4315-96e7-2e8ea23d8d7c" />
+<img width="616" height="332" alt="Screenshot 2026-06-27 204640" src="https://github.com/user-attachments/assets/6494e30f-682b-4ede-8993-b7ef5c1db610" />
+<img width="616" height="329" alt="Screenshot 2026-06-27 204727" src="https://github.com/user-attachments/assets/fc37ae26-e3fa-472f-99e4-c7e33cf4478b" />
+
 ### 功能
 ```
 - **資本適足率**：趨勢圖 / 同業比較 / 分布圖 / 最新排行，支援 CAR/CET1/Tier1
