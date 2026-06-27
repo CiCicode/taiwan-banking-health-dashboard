@@ -12,9 +12,9 @@ Tech Stack: JavaScript Web Scraper + Vercel Serverless Architecture + Dynamic Fr
 
 ### 功能
 ```
-- **資本適足率**：趨勢圖 / 同業比較 / 分布圖 / 最新排行，支援 CAR/CET1/Tier1
-- **資產品質**：逾放比率、備抵呆帳覆蓋率、放款覆蓋率趨勢與散佈圖
-- **獲利能力**：ROA/ROE 趨勢與同業比較 + 杜邦分析
+資本適足率：趨勢圖 / 同業比較 / 分布圖 / 最新排行，支援 CAR/CET1/Tier1
+資產品質：逾放比率、備抵呆帳覆蓋率、放款覆蓋率趨勢與散佈圖
+獲利能力：ROA/ROE 趨勢與同業比較 + 杜邦分析
 ```
 
 ### 資料來源
